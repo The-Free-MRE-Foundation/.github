@@ -7,4 +7,4 @@ edit, contribute to, and share the MREs.
 ```
 
 ## Join us
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uNmMDRAU)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yStWGYcgKJ)
